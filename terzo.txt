@@ -1,2 +1,3 @@
 testo del terzo file
-mi piace così
+modificato nel branch 1.0.0
+ok, ci sto
