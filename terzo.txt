@@ -1,1 +1,2 @@
 testo del terzo file
+modificato nel branch 1.0.0
